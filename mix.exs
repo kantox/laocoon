@@ -63,7 +63,10 @@ defmodule Laocoon.MixProject do
     """
     **Laocoön** is the testing / seeding tool faking external sources.
 
-    See https://en.wikipedia.org/wiki/Laoco%C3%B6n for an explanation.
+    **Laocoön** was a Trojan priest who was attacked, with his two sons,
+    by giant serpents sent by the gods.
+
+    See https://en.wikipedia.org/wiki/Laoco%C3%B6n for details.
     """
   end
 
